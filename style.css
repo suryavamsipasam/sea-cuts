@@ -1,0 +1,211 @@
+#nav-head{
+    font-family: cursive;
+    font-style: oblique;
+}
+#drop{
+    background-color: lavender;
+    font-family: cursive;
+    font-style: oblique;
+}
+#nav{
+    font-family: cursive;
+    font-style: oblique;
+    font-size: large;
+}
+#nav1{
+    font-family: cursive;
+    font-style: oblique;
+    background-color: black;
+}
+#search-bar{
+    border-radius: 20px;
+    padding-left: 4%;
+    background-color: aliceblue;
+}
+#search-bar2{
+    border-radius: 20px;
+    
+    font-family: cursive;
+    font-style: oblique;
+    background-color: aliceblue;
+}
+
+/* image slider */
+#slider{
+    opacity: 0.8;
+    
+}
+#image-text{
+    font-family: cursive;
+    font-style: oblique;
+    font-size: xx-large;
+    
+}
+#image-text2{
+    font-family: cursive;
+    font-style: oblique;
+    font-size: xx-large;
+    color: aliceblue;
+    
+}
+#image-text1{
+    color: black;
+    background-color: antiquewhite;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+
+}
+#img-text{
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+
+/* icons */
+#circle-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5px;
+}
+#circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 90%;
+    background-color:   yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+    box-sizing: border-box;
+}
+#icon{
+    font-size: 50px;
+    color: black;
+    background-color: rgba(255, 208, 0, 0.781);
+    border-radius: 140%;
+    padding: 25px;
+    
+    width: 270px;
+    height: 80px;
+    fill: black;
+    padding-top: 4px;
+}
+
+/* about section */
+.text-style{
+    font-family: cursive;
+    font-style: oblique;
+    font-size: large;
+}
+
+
+    
+
+#butcher-text{
+    font-family: cursive;
+    font-style: oblique;
+    font-size: large;
+    padding-top: 5px;
+    text-align: center;
+    
+    
+}
+
+/* cards */
+#btn-style{
+    background-color: rgb(255, 204, 0);
+    color: black; 
+    font-weight: bold;
+    width: 325px;
+    padding-left: 7%;
+}
+#btn-stock-style{
+    background-color: rgba(210, 231, 252, 0.906);
+    color: black; 
+    font-weight: bold;
+    width: 325px;
+    padding-left: 5%;
+    border: 3px solid black;
+    text-align: center;
+}
+
+/* popular items section */
+#item-images{
+    border-radius: 130px;
+    border: 10px solid rgb(255, 200, 0);
+}
+#top-items{
+    padding-left: 2%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.top-items-text{
+    text-align: center;
+        
+    font-size: 30px;
+}
+
+
+/* review sectio */
+#review-image{
+    padding-left: 20%;
+    border-radius: 90px;
+}
+#review-image1{
+    padding-right: 25%;
+    border-radius: 90px;
+}
+.review-header{
+    padding-left: 20%;
+    font-size: 30px;
+    font-weight: bold;
+}
+#review-text{
+    padding-right: 2%;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 20px;
+}
+
+/* feedback form */
+
+#feedback{
+    border-radius: 20px;
+    border: 5px solid aliceblue;
+    width: 300px;
+    height: 50px;
+    padding-left: 10%
+}
+input:hover {
+    transform: scale(1.1); 
+}
+button:hover {
+    transform: scale(1.1); }
+#feedback-button{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 5px solid aliceblue;
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+
+/* footer icons */
+#footer-icon{
+    font-size: 50px;
+    height: 80px;
+}
+#places{
+    padding-left: 12%;
+    padding-top: 5%;
+    font-size: 20px;
+    font-family: cursive;
+    font-style: oblique;
+}
